@@ -8,8 +8,8 @@
         "hash": "a5a1036ef9f163509cdd17b1e1ccb5c47f5822be514b356aaa0b580e7fb5566e",
         "source": {
             "type": "curseforge",
-            "projectId": 255308,
-            "fileId": 5875775
+            "projectId": ,
+            "fileId": 
         }
     },
     {
@@ -21,8 +21,8 @@
         "hash": "e970135ffaeee32df8514d3439f97dd8db55e1db63b6ca2672b4b7c31306e1d7",
         "source": {
             "type": "curseforge",
-            "projectId": "345779",
-            "fileId": "4480767"
+            "projectId": "",
+            "fileId": ""
         }
     },
     {
@@ -34,8 +34,8 @@
         "hash": "75ab193022070c547a31eccf2de3f58459403bff218888f8f4216c7d585765d6",
         "source": {
             "type": "curseforge",
-            "projectId": 243190,
-            "fileId": 4635415
+            "projectId": ,
+            "fileId": 
         }
     }
 ]
