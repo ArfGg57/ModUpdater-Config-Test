@@ -1,7 +1,7 @@
 {
     "modpackVersion": "1.1.8",
     "debugMode": true,
-    "configsBaseUrl": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/",
+    "configsBaseUrl": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config-Test/refs/heads/main/",
     "modsJson": "mods.json",
     "filesJson": "files.json",
     "deletesJson": "deletes.json",
